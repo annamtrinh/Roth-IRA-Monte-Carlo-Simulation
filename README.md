@@ -1,5 +1,17 @@
 # Roth-IRA-Monte-Carlo-Simulation
 
+#ETF Historical Correlation Matrix
+<img width="368" height="300" alt="image" src="https://github.com/user-attachments/assets/4b58eac6-b31e-4b19-acdb-304602ba9b27" />
+
+#Monte Carlo Simulation: Roth IRA Portfolio
+<img width="344" height="197" alt="image" src="https://github.com/user-attachments/assets/3a75767b-4331-4979-abc9-6aec8d93d2ab" />
+
+#Distribution of Simulated Ending Portfolio Values
+<img width="335" height="206" alt="image" src="https://github.com/user-attachments/assets/ec72314e-4c4c-4099-a003-ae2f219f1c7e" />
+
+#Monte Carlo Simulation: Roth IRA Portfolio (Median, 5th Percentile, 95th Percentile range)
+<img width="343" height="196" alt="image" src="https://github.com/user-attachments/assets/f95d3526-f915-445d-8f38-faa6f6bcc9a5" />
+
 
 ## How It Works
 1. It downloads past 5 years of data on the 6 ETFs using yfinance
